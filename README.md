@@ -18,8 +18,8 @@ The project demonstrates an end-to-end analytics workflow, starting from raw dat
 
 - ## Dataset
 
-Source:
-Personal trip expense records(Splitwise)
+Dataset Source:
+Personal travel expense records exported from Splitwise and transformed using Excel Power Query.
 
 Columns:
 Date
@@ -40,6 +40,26 @@ Participant Count
 - Matplotlib
 - Seaborn
 - Power BI
+
+  ## Project Workflow
+
+Raw Data
+
+↓
+
+Excel Cleaning
+
+↓
+
+SQL Analysis
+
+↓
+
+Python EDA
+
+↓
+
+Power BI Dashboard
 
 ## SQL Analysis
 
