@@ -65,7 +65,8 @@ Performed:
 - Correlation Analysis
 
 - ## Dashboard
-- ![Dashboard](dashboard/dashboard.png)
+- ![Dashboard](Dashboard.png)
+  
 
 ## Key Insights
 
