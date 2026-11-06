@@ -84,7 +84,7 @@ Performed:
 - Pareto Analysis
 - Correlation Analysis
 
-- ## Dashboard
+ ## Dashboard
 - ![Dashboard](Dashboard.png)
   
 
